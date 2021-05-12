@@ -1,7 +1,7 @@
 import java.sql.SQLException;
 
 import java.sql.*;
-
+//test
 public class DbConnection {
 	
     private final static String url = "jdbc:mysql://localhost:3306/foodlog?autoReconnect=true&useSSL=false";
