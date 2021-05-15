@@ -15,6 +15,7 @@ import java.sql.SQLException;
 import java.awt.event.ActionEvent;
 import javax.swing.JPasswordField;
 
+//test
 public class EditProfile {
 
 	private JFrame frame;
